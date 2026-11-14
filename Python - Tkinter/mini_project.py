@@ -1,13 +1,3 @@
-#log in GUI in tkinter python
-#must be functionable and interactive
-#must be light modern layout
-#500x300 size
-#-----------------
-#build database that can store information(advance!)
-#must have another window
-#then once inside, it will print the info that you put from the register and to confirm your information
-#after that the button will print, "you are now registered.."
-
 
 import tkinter as tk
 
